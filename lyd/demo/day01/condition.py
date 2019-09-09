@@ -1,0 +1,12 @@
+print(1 == 2)
+print(55 > 53)
+print(55 < 0)
+print(5 >= 2)
+print(5 <= 3)
+l = [1,2,3,4,5,6]
+print(10 in l)
+t = (1,2,3,5,)
+print(1 in t)
+d = {'name':'dahuang','age':25}
+print('sex' in d)
+print(1 in l)
